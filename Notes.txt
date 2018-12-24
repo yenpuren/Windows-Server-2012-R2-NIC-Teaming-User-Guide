@@ -1,0 +1,5 @@
+https://gallery.technet.microsoft.com/Windows-Server-2012-R2-NIC-85aa1318
+
+Windows Server 2012 R2 NIC Teaming User Guide
+
+This Windows Server 2012 R2 NIC Teaming user guide provides information about NIC Teaming architecture, bandwidth aggregation mechanisms and failover algorithms and a NIC Teaming management tool step-by-step guide. It also contains information about NIC feature support, including stateless task offloads and more complex NIC functionality. This guide does not apply to Windows Server 2012, for which there is a different NIC Teaming guide.
